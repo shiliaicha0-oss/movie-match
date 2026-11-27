@@ -23,6 +23,7 @@
     "@angular/common": "22.3.0",
     "@angular/compiler": "22.3.0",
     "@angular/core": "22.3.0",
+    "@angular/fire": "^22.0.0-rc.1",
     "@angular/forms": "22.3.0",
     "@angular/platform-browser": "22.3.0",
     "@angular/router": "22.3.0",
@@ -32,6 +33,7 @@
     "@capacitor/keyboard": "8.0.6",
     "@capacitor/status-bar": "8.0.4",
     "@ionic/angular": "^9.0.0",
+    "firebase": "^12.18.0",
     "ionicons": "^8.1.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0"
